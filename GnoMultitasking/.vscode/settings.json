@@ -1,0 +1,9 @@
+{
+    "idf.portWin": "COM7",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "string": "cpp",
+        "*.tpp": "cpp"
+    }
+}
