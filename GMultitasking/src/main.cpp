@@ -1,3 +1,12 @@
+// Nama Program : Implementasi Multitasking pada Edge Computing untuk Monitoring Tanaman Hidroponik Farm
+// Contributor in This Program:
+// 1. Conceptualize, Idea: Adnan, S.T., M.T., Ph.D.
+// 2. Desain: Adnan, S.T., M.T., Ph.D. and Devy Noviani Badjarad
+// 3. Implementation: Devy Noviani Badjarad
+// 4. Testing: Devy Noviani Badjarad
+// 5. Supervision: Adnan, S.T., M.T., Ph.D. and Dr. Eng. Zulkifli Tahir, S.T., M.Sc.
+
+
 #include <Arduino.h>
 #include <freertos/FreeRTOS.h>
 #include <freertos/task.h>
