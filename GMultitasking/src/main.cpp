@@ -1,4 +1,4 @@
-// Nama Program : Implementasi Multitasking pada Edge Computing untuk Monitoring Tanaman Hidroponik Farm
+// Program Name: Implementation of Multitasking in Edge Computing for Hydroponic Plant Monitoring Farm
 // Contributor in This Program:
 // 1. Conceptualize, Idea: Adnan, S.T., M.T., Ph.D.
 // 2. Desain: Adnan, S.T., M.T., Ph.D. and Devy Noviani Badjarad
